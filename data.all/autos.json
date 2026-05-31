@@ -1,0 +1,7 @@
+{
+  "label_col": "class",
+  "ordinal_orders": {},
+  "one_hot_cols": ["make", "fuel-type", "aspiration", "num-of-doors", "body-style", 
+  "drive-wheels", "engine-location", "engine-type", "num-of-cylinders", "fuel-system"],
+  "drop_first": true
+}

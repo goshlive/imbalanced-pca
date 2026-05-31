@@ -1,0 +1,7 @@
+{
+  "label_col": "class",
+  "ordinal_orders": {},
+  "one_hot_cols": ["lymphatics", "block_of_affere", "bl_of_lymph_c", "by_pass", "extravasates", "regeneration_of", 
+  "early_uptake_of", "lymph_node_size", "lymph_node_shape", "lymph_node_capsu", "lymph_node_signs", "special_forms"],
+  "drop_first": true
+}

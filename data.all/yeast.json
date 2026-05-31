@@ -1,0 +1,6 @@
+{
+  "label_col": "class",
+  "ordinal_orders": {},
+  "one_hot_cols": [],
+  "drop_first": true
+}

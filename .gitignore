@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IPyNb state and history
+.virtual_documents/
+.ipynb_checkpoints
+
+# Python auto-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environments
+venv/
+.venv/
+env/
